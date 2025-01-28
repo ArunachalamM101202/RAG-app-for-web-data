@@ -3,8 +3,7 @@ streamlit
 langchain
 langchain-community
 langchain-openai
-chromadb
+chromadb==0.3.29
 openai
 bs4
-sqlite3
 pysqlite3-binary
